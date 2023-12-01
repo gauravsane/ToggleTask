@@ -618,6 +618,13 @@ section .card {
 /* .row p{
     max-width: 370px;
 } */
+
+#Footer{
+  background: url(/footer\ img.png);
+}
+.container1{
+  background: url(/footer\ img.png);
+}
 .hover-effect1 {
   min-height: 20px;
   text-align: center;
@@ -650,7 +657,3 @@ font-size: 1.5rem;
   transform: rotate(360deg);
 }
 
-
-@media screen and (max-width: 600px) {
-    
-}
