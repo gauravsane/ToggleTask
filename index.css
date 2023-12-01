@@ -620,11 +620,9 @@ section .card {
 } */
 
 #Footer{
-  background: url(/footer\ img.png);
+  background-color: rgb(58, 58, 125);
 }
-.container1{
-  background: url(/footer\ img.png);
-}
+
 .hover-effect1 {
   min-height: 20px;
   text-align: center;
